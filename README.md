@@ -50,12 +50,6 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 
 ---
 
-## 📊 GitHub Stats
-![Delice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delice7-del&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delice7-del&layout=compact&theme=radical)  
-
----
 
 ## 📫 Contact Me
 - Email: your-email@example.com  
