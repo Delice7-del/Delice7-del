@@ -52,9 +52,9 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 
 
 ## 📫 Contact Me
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)  
-- Portfolio: [Your Portfolio](https://your-portfolio.com)  
+- Email: delicekeza0@gmail.com  
+- LinkedIn: [Your LinkedIn[]((https://www.linkedin.com/in/delice-keza-b41382333/)) 
+- Portfolio: [My Portfolio]([(https://github.com/Delice7-del/My-Portfolio))  
 
 ---
 
