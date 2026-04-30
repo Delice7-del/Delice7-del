@@ -54,7 +54,7 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 ## 📫 Contact Me
 - Email: delicekeza0@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/delice-keza-b41382333/
-- Portfolio: https://github.com/Delice7-del/My-Portfolio  
+- Portfolio: https://kezalabs.vercel.app/ 
 
 ---
 
