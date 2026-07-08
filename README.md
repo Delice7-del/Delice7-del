@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Delice Keza!
+#  Hi, I'm Delice Keza!
 
-### 🚀 Full-Stack & Mobile Developer | Learning MERN & Flutter
+###  Full-Stack & Mobile Developer | Learning MERN & Flutter
 
 I'm a passionate learner and builder who loves creating real-world applications.  
 I enjoy **solving problems** with code, improving user experiences, and exploring new technologies.
 
 ---
 
-## 🌱 What I'm Currently Learning
+##  What I'm Currently Learning
 - **Frontend:** React, Next.js, Flutter  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, Firebase  
@@ -15,7 +15,7 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 
 ---
 
-## 💻 Skills & Tools
+##  Skills & Tools
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 - **EcoTrack** – Smart Environmental Monitoring App  
 - **CamAI** – AI-Powered Intelligent Security Surveillance  
 - **Sponsify** – Full-stack CRUD Web App  
@@ -51,7 +51,7 @@ I enjoy **solving problems** with code, improving user experiences, and explorin
 ---
 
 
-## 📫 Contact Me
+##  Contact Me
 - Email: delicekeza0@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/delice-keza-b41382333/
 - Portfolio: https://kezalabs.vercel.app/ 
